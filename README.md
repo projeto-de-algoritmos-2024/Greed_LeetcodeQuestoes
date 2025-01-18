@@ -15,7 +15,8 @@
 
 | Nome  | Nível   |
 | ---------------------- | ------- |
-
+| 179 - Largest Number   | Médio   |
+| 135 - Candy            | Difícil |
 
 ## Vídeo
 
