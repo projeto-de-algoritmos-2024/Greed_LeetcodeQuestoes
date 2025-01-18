@@ -30,6 +30,10 @@ Largest Number Caso 1</br>
 ![Largest Number](/assets/Caso1largest.png)</br>
 Largest Number Caso 2</br>
 ![Largest Number](/assets/Caso2largest.png)</br>
+Candy Caso 1</br>
+![Candy](/assets/Caso1candy.png)</br>
+Candy Caso 2</br>
+![Candy](/assets/Caso2candy.png)</br>
 
 
 
