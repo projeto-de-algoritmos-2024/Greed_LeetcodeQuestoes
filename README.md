@@ -24,6 +24,11 @@
 
 ## Screenshots
 
+Largest Number Caso 1</br>
+![Largest Number](/assets/Caso1largest.png)</br>
+Largest Number Caso 2</br>
+![Largest Number](/assets/Caso2largest.png)</br>
+
 
 
 
