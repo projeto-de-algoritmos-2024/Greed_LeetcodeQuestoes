@@ -21,7 +21,7 @@
 | 630 - Course Schedule III | Difícil |
 
 ## Vídeo
-
+[Vídeo apresentando as questões 179 e 135](https://www.youtube.com/watch?v=VFgZl8x5L28)</br>
 
 
 ## Screenshots
