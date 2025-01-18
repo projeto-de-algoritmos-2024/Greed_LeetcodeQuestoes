@@ -17,6 +17,8 @@
 | ---------------------- | ------- |
 | 179 - Largest Number   | Médio   |
 | 135 - Candy            | Difícil |
+| 621 - Task Scheduler   | Médio   |
+| 630 - Course Schedule III | Difícil |
 
 ## Vídeo
 
