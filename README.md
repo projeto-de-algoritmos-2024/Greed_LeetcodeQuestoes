@@ -15,10 +15,10 @@
 
 | Nome  | Nível   |
 | ---------------------- | ------- |
-| 179 - Largest Number   | Médio   |
-| 135 - Candy            | Difícil |
-| 621 - Task Scheduler   | Médio   |
-| 630 - Course Schedule III | Difícil |
+| [179. Largest Number](https://leetcode.com/problems/largest-number/description/)   | Médio   |
+| [135. Candy](https://leetcode.com/problems/candy/description/)            | Difícil |
+| [621. Task Scheduler](https://leetcode.com/problems/task-scheduler/description/)   | Médio   |
+| [630. Course Schedule III](https://leetcode.com/problems/course-schedule-iii/description/) | Difícil |
 
 ## Vídeo
 [Vídeo apresentando as questões 179 e 135](https://www.youtube.com/watch?v=VFgZl8x5L28)</br>
